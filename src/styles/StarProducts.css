@@ -1,0 +1,13 @@
+.star-product-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.star-product-section img{
+    transition: all 0.5s;
+}
+
+.star-product-section img:hover{
+    box-shadow: -10px 10px 15px rgba(53, 53, 53, 0.365);
+}

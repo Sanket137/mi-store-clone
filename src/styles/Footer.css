@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+.PreFooter{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-second-section{
+
+}
+.footer-third-section{
+    background-color: black;
+}
